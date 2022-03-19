@@ -15,6 +15,8 @@
     <maven.compiler.source>11</maven.compiler.source>
     <final.name>tarefa-pw2</final.name>
     <slf4j.api.version>1.7.30</slf4j.api.version>
+    <sonar.organization>nicolas092</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
   <dependencies>
     <dependency>
